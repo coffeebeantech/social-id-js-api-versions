@@ -6,6 +6,10 @@ Tracking of Social-ID Marketing Platform Javascript API versions and changelog.
 
   1.0.2
 
+## Current url
+
+  https://app.socialidnow.com/assets/api/socialid.js
+
 ## Check version
 
 In a web page with the socialid.js file included just type in the browser's console:
