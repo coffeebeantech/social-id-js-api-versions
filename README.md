@@ -4,7 +4,7 @@ Tracking of Social-ID Marketing Platform Javascript API versions and changelog.
 
 ## Current version
 
-  1.0.1
+  1.0.2
 
 ## Check version
 
@@ -15,6 +15,10 @@ socialid.version;
 ```
   
 ## Changelog
+
+### v1.0.2
+
+* Support to Google+ on Social Login and Social Connect widgets.
 
 ### v1.0.1
 
