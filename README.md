@@ -4,7 +4,7 @@ Tracking of Social-ID Marketing Platform Javascript API versions and changelog.
 
 ## Current version
 
-  1.0.2
+  1.1.0
 
 ## Current url
 
@@ -19,6 +19,10 @@ socialid.version;
 ```
   
 ## Changelog
+
+### v1.1.0
+
+* Add "redirect" login type for Social Login. With this option it's possible to use the social login flow with redirects only (website > socialid > social network > socialid > website callback), without popups.
 
 ### v1.0.2
 
