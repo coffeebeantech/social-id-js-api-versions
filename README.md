@@ -4,7 +4,7 @@ Tracking of Social-ID Marketing Platform Javascript API versions and changelog.
 
 ## Current version
 
-  1.1.0
+  1.2.0
 
 ## Current url
 
@@ -19,6 +19,10 @@ socialid.version;
 ```
   
 ## Changelog
+
+### v1.2.0
+
+* Add Javascript APIs to the new Social-ID Selfie feature. See documentation: http://dev.socialidnow.com/index.php/Selfie_Javascript_APIs
 
 ### v1.1.0
 
