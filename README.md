@@ -4,7 +4,7 @@ Tracking of Social-ID Marketing Platform Javascript API versions and changelog.
 
 ## Current version
 
-  1.2.0
+  1.3.0
 
 ## Current url
 
@@ -17,8 +17,14 @@ In a web page with the socialid.js file included just type in the browser's cons
 ```javascript
 socialid.version;
 ```
-  
+
 ## Changelog
+
+### v1.3.0
+
+* Change socialid.selfie.posts parameters to support search for all hashtags.
+* Add socialid.selfie.getPostInfo() API.
+* Update Facebook JS SDK to support Graph API v2.0.
 
 ### v1.2.0
 
