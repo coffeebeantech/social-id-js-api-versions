@@ -4,7 +4,7 @@ Tracking of Social-ID Marketing Platform Javascript API versions and changelog.
 
 ## Current version
 
-  1.4.0
+  1.5.0
 
 ## Current url
 
@@ -19,6 +19,12 @@ socialid.version;
 ```
 
 ## Changelog
+
+### v1.5.0
+
+* Add support to fields parameter on socialid.login.getUserInfo JS API.
+* Add onDialogOpen and onDialogClose events on JS API.
+* Fix issues.
 
 ### v1.4.0
 
