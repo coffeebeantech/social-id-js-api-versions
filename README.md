@@ -4,7 +4,7 @@ Tracking of Social-ID Marketing Platform Javascript API versions and changelog.
 
 ## Current version
 
-  1.3.0
+  1.4.0
 
 ## Current url
 
@@ -19,6 +19,12 @@ socialid.version;
 ```
 
 ## Changelog
+
+### v1.4.0
+
+* Add login_token attribute to socialid.login.loginUserToken JS API response.
+* Add picture_url and user_id attributes to socialid.login.getUserInfo JS API response.
+* Add socialid.login.clusteringFeatures JS API.
 
 ### v1.3.0
 
