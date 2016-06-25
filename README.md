@@ -4,7 +4,7 @@ Tracking of Social-ID Marketing Platform Javascript API versions and changelog.
 
 ## Current version
 
-  1.5.0
+  1.6.0
 
 ## Current url
 
@@ -19,6 +19,13 @@ socialid.version;
 ```
 
 ## Changelog
+
+### v1.6.0
+
+* Add socialid.login.deleteMacAddress JS API.
+* Add socialid.login.getUserData JS API.
+* Fix social login issues on IE 11 and Chrome for iOS.
+* Add Javascript APIs to the new Comments & Reviews feature. See documentation: http://dev.socialidnow.com/index.php/Comments_Reviews_Javascript_APIs
 
 ### v1.5.0
 
