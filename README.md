@@ -4,7 +4,7 @@ Tracking of Social-ID Marketing Platform Javascript API versions and changelog.
 
 ## Current version
 
-  1.8.0
+  1.9.0
 
 ## Current url
 
@@ -19,6 +19,10 @@ socialid.version;
 ```
 
 ## Changelog
+
+### v1.9.0
+
+* Add socialid.login.getConnectionStatus JS API. See documentation: http://dev.socialidnow.com/index.php?title=Socialid.login.getConnectionStatus
 
 ### v1.8.0
 
