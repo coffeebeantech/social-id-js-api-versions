@@ -4,7 +4,7 @@ Tracking of Social-ID Marketing Platform Javascript API versions and changelog.
 
 ## Current version
 
-  1.9.0
+  1.10.0
 
 ## Current url
 
@@ -20,6 +20,12 @@ socialid.version;
 
 ## Changelog
 
+### v1.10.0
+
+* Add socialid.login.extendCredentials JS API. See documentation: http://dev.socialidnow.com/index.php?title=Socialid.login.extendCredentials
+* Add socialid.login.extendFacebookToken JS API. See documentation: http://dev.socialidnow.com/index.php?title=Socialid.login.extendFacebookToken
+* General improvements.
+
 ### v1.9.0
 
 * Add socialid.login.getConnectionStatus JS API. See documentation: http://dev.socialidnow.com/index.php?title=Socialid.login.getConnectionStatus
@@ -34,10 +40,10 @@ socialid.version;
 
 ### v1.6.0
 
-* Add socialid.login.deleteMacAddress JS API.
+* Add socialid.login.deleteMacAddress JS API. See documentation: http://dev.socialidnow.com/index.php?title=Socialid.login.deleteMacAddress
 * Add socialid.login.getUserData JS API.
 * Fix social login issues on IE 11 and Chrome for iOS.
-* Add Javascript APIs to the new Comments & Reviews feature. See documentation: http://dev.socialidnow.com/index.php/Comments_Reviews_Javascript_APIs
+* Add Javascript APIs to the new Comments & Reviews feature. See documentation: http://dev.socialidnow.com/index.php?title=Comments_Reviews_Javascript_APIs
 
 ### v1.5.0
 
@@ -59,7 +65,7 @@ socialid.version;
 
 ### v1.2.0
 
-* Add Javascript APIs to the new Social-ID Selfie feature. See documentation: http://dev.socialidnow.com/index.php/Selfie_Javascript_APIs
+* Add Javascript APIs to the new Social-ID Selfie feature. See documentation: http://dev.socialidnow.com/index.php?title=Selfie_Javascript_APIs
 
 ### v1.1.0
 
