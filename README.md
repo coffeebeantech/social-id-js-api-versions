@@ -22,34 +22,34 @@ socialid.version;
 
 ### v1.11.0
 
-* Add socialid.datastore.getObjects JS API. See documentation: http://dev.socialidnow.com/index.php?title=Socialid.datastore.getObjects
+* Add [socialid.datastore.getObjects](http://dev.socialidnow.com/index.php?title=Socialid.datastore.getObjects) JS API.
 * Fix issue for default browser languages without internationalization support.
 * General improvements.
 
 ### v1.10.0
 
-* Add socialid.login.extendCredentials JS API. See documentation: http://dev.socialidnow.com/index.php?title=Socialid.login.extendCredentials
-* Add socialid.login.extendFacebookToken JS API. See documentation: http://dev.socialidnow.com/index.php?title=Socialid.login.extendFacebookToken
+* Add [socialid.login.extendCredentials](http://dev.socialidnow.com/index.php?title=Socialid.login.extendCredentials) JS API.
+* Add [socialid.login.extendFacebookToken](http://dev.socialidnow.com/index.php?title=Socialid.login.extendFacebookToken) JS API.
 * General improvements.
 
 ### v1.9.0
 
-* Add socialid.login.getConnectionStatus JS API. See documentation: http://dev.socialidnow.com/index.php?title=Socialid.login.getConnectionStatus
+* Add [socialid.login.getConnectionStatus](http://dev.socialidnow.com/index.php?title=Socialid.login.getConnectionStatus) JS API.
 
 ### v1.8.0
 
-* Add scope option to socialid.login.init JS API. See documentation: http://dev.socialidnow.com/index.php?title=Socialid.login.init
+* Add scope option to [socialid.login.init](http://dev.socialidnow.com/index.php?title=Socialid.login.init) JS API.
 
 ### v1.7.0
 
-* Add redirectURI option to socialid.login.init JS API. See documentation: http://dev.socialidnow.com/index.php?title=Socialid.login.init
+* Add redirectURI option to [socialid.login.init](http://dev.socialidnow.com/index.php?title=Socialid.login.init) JS API.
 
 ### v1.6.0
 
-* Add socialid.login.deleteMacAddress JS API. See documentation: http://dev.socialidnow.com/index.php?title=Socialid.login.deleteMacAddress
+* Add [socialid.login.deleteMacAddress](http://dev.socialidnow.com/index.php?title=Socialid.login.deleteMacAddress) JS API.
 * Add socialid.login.getUserData JS API.
 * Fix social login issues on IE 11 and Chrome for iOS.
-* Add Javascript APIs to the new Comments & Reviews feature. See documentation: http://dev.socialidnow.com/index.php?title=Comments_Reviews_Javascript_APIs
+* Add [Comments & Reviews](http://dev.socialidnow.com/index.php?title=Comments_Reviews_Javascript_APIs) Javascript APIs.
 
 ### v1.5.0
 
@@ -71,7 +71,7 @@ socialid.version;
 
 ### v1.2.0
 
-* Add Javascript APIs to the new Social-ID Selfie feature. See documentation: http://dev.socialidnow.com/index.php?title=Selfie_Javascript_APIs
+* Add [Social-ID Selfie](http://dev.socialidnow.com/index.php?title=Selfie_Javascript_APIs) Javascript APIs.
 
 ### v1.1.0
 
