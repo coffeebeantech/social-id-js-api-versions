@@ -4,7 +4,7 @@ Tracking of Social-ID Marketing Platform Javascript API versions and changelog.
 
 ## Current version
 
-  1.10.0
+  1.11.0
 
 ## Current url
 
@@ -19,6 +19,12 @@ socialid.version;
 ```
 
 ## Changelog
+
+### v1.11.0
+
+* Add socialid.datastore.getObjects JS API. See documentation: http://dev.socialidnow.com/index.php?title=Socialid.datastore.getObjects
+* Fix issue for default browser languages without internationalization support.
+* General improvements.
 
 ### v1.10.0
 
