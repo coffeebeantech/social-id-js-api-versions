@@ -4,7 +4,7 @@ Tracking of Social-ID Marketing Platform Javascript API versions and changelog.
 
 ## Current version
 
-  1.11.0
+  1.12.0
 
 ## Current url
 
@@ -19,6 +19,10 @@ socialid.version;
 ```
 
 ## Changelog
+
+### v1.12.0
+
+* Add [Web Push Notification](http://dev.socialidnow.com/index.php?title=Web_Push_Javascript_APIs) Javascript APIs.
 
 ### v1.11.0
 
@@ -53,20 +57,20 @@ socialid.version;
 
 ### v1.5.0
 
-* Add support to fields parameter on socialid.login.getUserInfo JS API.
+* Add support to fields parameter on [socialid.login.getUserInfo](http://dev.socialidnow.com/index.php?title=Socialid.login.getUserInfo) JS API.
 * Add onDialogOpen and onDialogClose events on JS API.
 * Fix issues.
 
 ### v1.4.0
 
-* Add login_token attribute to socialid.login.loginUserToken JS API response.
-* Add picture_url and user_id attributes to socialid.login.getUserInfo JS API response.
+* Add login_token attribute to [socialid.login.loginUserToken](http://dev.socialidnow.com/index.php?title=Socialid.login.loginUserToken) JS API response.
+* Add picture_url and user_id attributes to [socialid.login.getUserInfo](http://dev.socialidnow.com/index.php?title=Socialid.login.getUserInfo) JS API response.
 * Add socialid.login.clusteringFeatures JS API.
 
 ### v1.3.0
 
 * Change socialid.selfie.posts parameters to support search for all hashtags.
-* Add socialid.selfie.getPostInfo() API.
+* Add [socialid.selfie.getPostInfo()](http://dev.socialidnow.com/index.php?title=Socialid.selfie.getPostInfo) API.
 * Update Facebook JS SDK to support Graph API v2.0.
 
 ### v1.2.0
