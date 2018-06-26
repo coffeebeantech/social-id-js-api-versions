@@ -4,7 +4,7 @@ Tracking of Social-ID Marketing Platform Javascript API versions and changelog.
 
 ## Current version
 
-  1.13.0
+  1.14.0
 
 ## Current url
 
@@ -19,6 +19,10 @@ socialid.version;
 ```
 
 ## Changelog
+
+### v1.14.0
+
+* Add support to send errors to redirect URIs for [login](http://dev.socialidnow.com/index.php?title=Socialid.login.startLogin) and [connect](http://dev.socialidnow.com/index.php?title=Socialid.login.startConnect) flows.
 
 ### v1.13.0
 
