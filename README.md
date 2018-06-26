@@ -4,7 +4,7 @@ Tracking of Social-ID Marketing Platform Javascript API versions and changelog.
 
 ## Current version
 
-  1.12.0
+  1.13.0
 
 ## Current url
 
@@ -19,6 +19,13 @@ socialid.version;
 ```
 
 ## Changelog
+
+### v1.13.0
+
+* Add [socialid.login.getConnectionStatus](http://dev.socialidnow.com/index.php?title=Socialid.login.getConnectionStatus) JS API.
+* Add [socialid.login.updateUserData](http://dev.socialidnow.com/index.php?title=Socialid.login.updateUserData) JS API.
+* Add [Rule Engine](http://dev.socialidnow.com/index.php?title=Campaign_Engine_Javascript_APIs) Javascript APIs.
+* Support Connection of new credentials using redirect mode in [socialid.login.init](http://dev.socialidnow.com/index.php?title=Socialid.login.init) and [socialid.login.startConnect](http://dev.socialidnow.com/index.php?title=Socialid.login.startConnect).
 
 ### v1.12.0
 
