@@ -4,7 +4,7 @@ Tracking of Social-ID Marketing Platform Javascript API versions and changelog.
 
 ## Current version
 
-  1.17.0
+  1.18.0
 
 ## Current url
 
@@ -19,6 +19,10 @@ socialid.version;
 ```
 
 ## Changelog
+
+### v1.18.0
+
+* Add Login with Instagram.
 
 ### v1.17.0
 
