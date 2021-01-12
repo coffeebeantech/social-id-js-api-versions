@@ -4,7 +4,7 @@ Tracking of Social-ID Marketing Platform Javascript API versions and changelog.
 
 ## Current version
 
-  1.18.0
+  1.19.0
 
 ## Current url
 
@@ -19,6 +19,15 @@ socialid.version;
 ```
 
 ## Changelog
+
+### v1.19.0
+
+* Add Login with Apple.
+* Add SameSite support for cookies.
+* Add [socialid.connectionStorage.init](https://dev.socialidnow.com/index.php?title=Socialid.connectionStorage) JS API.
+* Add support to Login APIs to use connection storage.
+* Change default connection storage for Safari browsers to use cookies.
+* Fix comments sharing.
 
 ### v1.18.0
 
